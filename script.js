@@ -12,7 +12,7 @@ let currentPiece;
 let currentDropPiece;
 let mouse;
 img.addEventListener("load", onImage, false);
-img.src = "pacman.jfif";
+img.src = "https://asyncbanana.github.io/html5-canvas-puzzle/mke.jpg";
 
 function initPuzzle() {
   pieces = [];
