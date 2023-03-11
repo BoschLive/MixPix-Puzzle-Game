@@ -2,10 +2,11 @@
   display: inline-block;
   width: 835px;
   height: 400px;
-  padding: 0;
+  padding: 50px;
   position: fixed;
   top: 8%;
   left: 50%;
+  right: 50%;
   transform: translate(-48%, -0%);
 }
 
