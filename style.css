@@ -1,5 +1,5 @@
 #canvas {
-  display: inline-block;
+  display: block;
   width: 835px;
   height: 400px;
   position: fixed;
@@ -11,7 +11,7 @@
   border-color: #D94C26;
 }
 
-form {
+.center {
   display: block;
   margin: auto;
   width: 50%;
