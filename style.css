@@ -11,6 +11,12 @@
   border-color: #D94C26;
 }
 
+form {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 body{
   margin: 0 auto;
   width: 100%;
